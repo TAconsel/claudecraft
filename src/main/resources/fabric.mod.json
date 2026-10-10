@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "claudecraft",
+	"version": "${version}",
+	"name": "ClaudeCraft",
+	"description": "In-game Claude assistant for commands, command blocks and simple world editing. Uses your local Claude Code CLI login.",
+	"authors": ["TAconsel"],
+	"contact": {
+		"homepage": "https://github.com/TAconsel/claudecraft",
+		"sources": "https://github.com/TAconsel/claudecraft",
+		"issues": "https://github.com/TAconsel/claudecraft/issues"
+	},
+	"license": "MIT",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.consel.claudecraft.ClaudeCraftClient"]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.0",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

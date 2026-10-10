@@ -1,0 +1,7 @@
+{
+	"key.category.claudecraft.main": "ClaudeCraft",
+	"key.claudecraft.ask": "Ask Claude",
+	"key.claudecraft.pos1": "Claude: set selection pos1",
+	"key.claudecraft.pos2": "Claude: set selection pos2",
+	"key.claudecraft.mode": "Claude: switch mode (suggest / autorun / auto)"
+}
